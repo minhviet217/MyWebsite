@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+.container {
+  width: 100%;
+  background-size: auto;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: white;
+}
+
+.mips {width: 85%; background-color: #4CAF50;}
+.html {width: 75%; background-color: #4CAF50;}
+.css {width: 75%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.sql {width: 65%; background-color: #808080;}
+
+
+
